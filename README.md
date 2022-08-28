@@ -2,4 +2,10 @@
 # Source for sale removed files due to security
 
 
-not really emulating just MITM really
+MITM method - patched
+
+
+
+new method working as of 28/08/2022 
+
+security updates added
