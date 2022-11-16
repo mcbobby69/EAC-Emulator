@@ -20,3 +20,8 @@ full bypass EAC + Battleye
 
 updated 21/09/22
 security updates + new loading methods ( new exploits )
+
+
+
+Updated for EAC_EOS version 
+Added better integrity checks for faster client speed
