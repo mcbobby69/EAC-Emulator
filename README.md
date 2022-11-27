@@ -1,8 +1,7 @@
 # EAC-Emulator
 # Source for sale removed files due to security
 
-# Note this is private and is only for sale 
-
+Vouches + POC can be shown 
 
 
 new method working as of 28/08/2022 
