@@ -1,5 +1,5 @@
 # EAC-Emulator
-# Source for sale removed files due to security
+# The Source for sale removed files due to security
 
 Vouches + POC can be shown 
 
@@ -22,5 +22,14 @@ security updates + new loading methods ( new exploits )
 
 
 
-Updated for EAC_EOS version 
 Added better integrity checks for faster client speed
+
+Includes 
+- Full Emulation for Easy Anti Cheat 
+- Packet Manipulation
+- Also Comes with simple injector that doesn't leave anything behind
+- Supports windows 10 and 11 all versions
+
+Supports 32bit and 64bit games
+Requires VM Software to be downloaded
+
