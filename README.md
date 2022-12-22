@@ -8,9 +8,9 @@ new method working as of 28/08/2022
 
 security updates added
 
-working for Battleye And EasyAntiCheat 
-emulates Integrity checks allowing you to connect with CreateThread 
-fully disables anti-cheat service from running ( spoofs server packets to allow connection to game servers even though anti-cheat is not running on the system )
+- working for Battleye And EasyAntiCheat 
+- emulates Integrity checks allowing you to connect with CreateThread 
+- fully disables anti-cheat service from running ( spoofs server packets to allow connection to game servers even though anti-cheat is not running on the system )
 
 full bypass EAC + Battleye 
 
