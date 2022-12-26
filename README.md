@@ -1,5 +1,5 @@
 # EAC-Emulator
-# The Source for sale removed files due to security
+# The Source is now for sale, removed files due to security
 
 Vouches + POC can be shown 
 
@@ -27,9 +27,8 @@ Added better integrity checks for faster client speed
 Includes 
 - Full Emulation for Easy Anti Cheat 
 - Packet Manipulation
-- Also Comes with simple injector that doesn't leave anything behind
-- Supports windows 10 and 11 all versions
+- Supports windows 10 and 11 ( also supports PRO Versions of windows )
 
-Supports 32bit and 64bit games
-Requires VM Software to be downloaded
+Supports 64bit games
+Requires VM Software to be downloaded if on windows 11
 
