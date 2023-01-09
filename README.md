@@ -26,9 +26,9 @@ Added better integrity checks for faster client speed
 
 Includes 
 - Full Emulation for Easy Anti Cheat 
-- Packet Manipulation
+- Emulate Battleye Anti cheat
 - Supports windows 10 and 11 ( also supports PRO Versions of windows )
 
-Supports 64bit games
-Requires VM Software to be downloaded if on windows 11
+Supports 32bit & 64bit games
+
 
