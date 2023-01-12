@@ -9,7 +9,8 @@ Perfect for anyone who is running a pay to cheat or wanting to start
 security updates added
 
 - working for Battleye And EasyAntiCheat 
-- emulates Integrity checks allowing you to connect with CreateThread 
+- emulates Integrity checks ( allowing you to connect to servers without having eac running )
+- fully stops EAC Heartbeat 
 - fully disables anti-cheat service from running ( spoofs server packets to allow connection to game servers even though anti-cheat is not running on the system )
 
 full bypass EAC + Battleye 
