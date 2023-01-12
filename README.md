@@ -1,10 +1,10 @@
 # EAC-Emulator
+# updated 12/01/2023
 # The Source is now for sale, removed files due to security
+- if you are interested in buying this Emulator please contact me via discord: skeng#9524
 
 Vouches + POC can be shown 
-
-
-new method working as of 28/08/2022 
+Perfect for anyone who is running a pay to cheat or wanting to start 
 
 security updates added
 
